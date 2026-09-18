@@ -87,7 +87,8 @@
 
 ## 아키텍처
 
-<!-- 이미지 삽입 -->
+<img width="2336" height="1440" alt="image" src="https://github.com/user-attachments/assets/7a2b5636-811f-4129-8678-4fd5fa19dfe2" />
+
 
 <details>
 <summary><b>패키지 구조와 설계 원칙</b></summary>
