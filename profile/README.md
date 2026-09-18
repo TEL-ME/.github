@@ -87,7 +87,8 @@
 
 ## 아키텍처
 
-<img width="2336" height="1440" alt="image" src="https://github.com/user-attachments/assets/7a2b5636-811f-4129-8678-4fd5fa19dfe2" />
+<img width="2332" height="1466" alt="image" src="https://github.com/user-attachments/assets/76792627-da57-4051-a51c-39dbd478867f" />
+
 
 
 <details>
