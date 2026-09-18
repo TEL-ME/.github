@@ -16,7 +16,11 @@
   FAQ 검색 → 근거 없음 → "확인이 어렵습니다" (AI를 아예 호출하지 않음)
 ```
 
-**프로젝트 목적**
+<img width="1600" height="1180" alt="image" src="https://github.com/user-attachments/assets/028847e2-8bde-455e-bc79-103f3e659ab0" />
+
+
+
+### 프로젝트 목적
 - FAQ를 근거로 한 신뢰성 있는 AI 상담 구현
 - 위치 기반 매장 안내를 상담 흐름에 통합
 - 검색 품질을 정량 지표로 관리하는 개선 체계 수립
@@ -112,6 +116,11 @@ com.telme
 ## ERD
 
 <!-- 이미지 삽입 -->
+<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/0afca5b3-1905-4976-92da-85ba9f1897b6" />
+
+
+<img width="3220" height="5816" alt="image" src="https://github.com/user-attachments/assets/d2adf95f-004a-4360-808c-a47366d57f96" />
+
 
 
 <details>
