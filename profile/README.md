@@ -503,7 +503,7 @@ macOS Docker는 GPU(Metal)를 컨테이너에 전달하지 못해 임베딩이 �
 
 - 사용자용 매장 API 노출과 채팅 연결, 지도 연동
 - 관리자 매장 쓰기 API
-- 프론트 화면 구현 (설계 문서는 `프로젝트_이해/SERVICE_BRIEF_FOR_DESIGN.md`)
+- 프론트 화면 구현
 - AWS 배포, CD
 - `GET /auth/me`, 답변 재시도 API, 대화 삭제 API
 
