@@ -245,7 +245,7 @@ POST /chat/sessions/{id}/messages
 <img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/0afca5b3-1905-4976-92da-85ba9f1897b6" />
 
 
-<img width="3220" height="5816" alt="image" src="https://github.com/user-attachments/assets/d2adf95f-004a-4360-808c-a47366d57f96" />
+<img width="5164" height="8512" alt="Image" src="https://github.com/user-attachments/assets/e7f69a2d-47b9-4cb0-8bdc-9546223c88d5" />
 
 
 
