@@ -180,6 +180,7 @@
 ---
 
 ## 아키텍처
+<img width="1340" height="900" alt="Image" src="https://github.com/user-attachments/assets/3c36eafa-e65c-4a0e-86e8-c53ac762b3c9" />
 
 
 
