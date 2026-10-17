@@ -241,10 +241,6 @@ POST /chat/sessions/{id}/messages
 
 ## ERD
 
-<!-- 이미지 삽입 -->
-<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/0afca5b3-1905-4976-92da-85ba9f1897b6" />
-
-
 <img width="5164" height="8512" alt="Image" src="https://github.com/user-attachments/assets/e7f69a2d-47b9-4cb0-8bdc-9546223c88d5" />
 
 
